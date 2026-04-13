@@ -72,7 +72,7 @@ Transform raw collision records into actionable insights that can help Vision Ze
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/ayemaqu/Pedestrian-Injury-Risk-Predictor
+   git clone https://github.com/ayemaqu/Pedestrian-Injury-Risk-Predictor-Expanded
 ```
 
 2. Download the dataset from NYC Open Data and place the CSV file here:
